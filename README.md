@@ -1,6 +1,6 @@
 # STM32-SERVO-MOTOR-CONTROL
 This is a simple code you can use to control an SG90 Servo Motor using an STM32 microcontroller.
-The full tutorial is available on YouTube: 
+The full tutorial is available on YouTube: https://youtu.be/0aTMuiHVx_g
 
     //Set the timer frequency to 50Hz
     /* USER CODE BEGIN 0 */
